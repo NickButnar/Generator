@@ -1,0 +1,29 @@
+.generator {
+  display: flex;
+  flex-direction: column;
+  margin: 0 auto;
+}
+
+.generator__heading {
+  font-family: "Times New Roman", Times, serif;
+  font-weight: 600;
+  font-size: 50;
+  color: #000;
+  text-align: center;
+}
+.password__field {
+  text-align: center;
+  max-width: 600px;
+  background-color: pink;
+  margin: 0 auto;
+}
+
+.generator__generate {
+  max-width: 100px;
+  margin: 0 auto 20px;
+}
+
+.generator__copy {
+  max-width: 100px;
+  margin: 0 auto 20px;
+}
